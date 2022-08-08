@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shikhasachan
 - 👀 I’m interested in data analytics
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Tableau
 - 💞️ I’m looking to collaborate on data analytics projects
 - 📫 How to reach me www.linkedin.com/in/shikha-sachan-38764947
 
